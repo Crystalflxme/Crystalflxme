@@ -8,7 +8,7 @@ I try to open-source any projects that I can, but a lot of my systems I keep pro
 
 ### 🗂 Experience & Open-Source Projects
 - **Lead Developer @ [HexTech](https://www.roblox.com/groups/4361197)** <br>
-  This is my main studio that I spend most of my time and would be where the majority of my Roblox games are. Here, HexTech's games have accumulated 160K+ plays/visits.
+  This is my main studio that I spend most of my time and would be where the majority of my Roblox games are. Here, HexTech's games have accumulated 164K+ plays/visits.
   
 - **That Elevator Game ([Roblox Game](https://www.roblox.com/games/3953223571))** <br>
   Originally created in late 2019, this comedy based random elevator simulator has grown a lot. Not my favorite project to work on, but polishing this game to the stage it's at today was quite fun.
