@@ -8,10 +8,10 @@ I try to open-source any projects that I can, but a lot of my systems I keep pro
 
 ### 🗂 Main Open-Source Projects
 - **ChatPlus ([Roblox System](https://github.com/Crystalflxme/ChatPlus))** <br>
-  ChatPlus is a system to allow easy management of the default Roblox chat system. As of July 19th 2021, Roblox Developer Forum users rated the system a 7.78/10 and about 71% said they would use ChatPlus in their own game.
+  ChatPlus is a system to allow easy management of the default Roblox chat system. As of December 31st 2021, Roblox Developer Forum users rated the system a 7.78/10 and about 71% said they would use ChatPlus in their own game.
 
-- **Cooldown ([Roblox Module](https://github.com/Crystalflxme/Cooldown))** <br>
-  Cooldown is a small lightweight performant method of managing cooldowns.
+- **Hexwork ([Roblox Module Collection](https://github.com/Crystalflxme/Hexwork))** <br>
+  A collection of modules that I often use in my own games to speed up and aid development.
 
 ### 💬 Socials
 Roblox: https://www.roblox.com/users/64917350 <br>
