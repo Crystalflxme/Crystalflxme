@@ -2,11 +2,14 @@
 Roblox Developer — Programmer — Student
 
 ### 🔎 About Me
-I've been messing around on Roblox about 7 years now and that's been where I've been spending a lot of my time recently. At the moment, I'm trying to push new amazing projects on Roblox.
+I've been messing around on Roblox about 9 years now. At the moment, I'm pushing new amazing projects on Roblox.
 
-I try to open-source any projects that I can, but a lot of my systems I keep proprietary for studios that I work in. For a list of my jobs, see my Roblox Talent Hub profile in the socials below. Any open-source work that I have should be available here on GitHub.
+I try to open-source any projects that I can, but a lot of my systems I keep proprietary for studios that I work in. For a list of my experience, see my Roblox Talent Hub profile in the socials below. Any open-source work that I have should be available here on GitHub.
 
 ### 🗂 Main Open-Source Projects
+- **IPS2DevKit ([Roblox Plugin](https://github.com/Crystalflxme/IPS2DevKit))** <br>
+  IPS2DevKit is a Roblox Studio plugin utility for IPS2 content development.
+
 - **ChatPlus ([Roblox System](https://github.com/Crystalflxme/ChatPlus))** <br>
   ChatPlus is a system to allow easy management of the default Roblox chat system. As of December 31st 2021, Roblox Developer Forum users rated the system a 7.78/10 and about 71% said they would use ChatPlus in their own game.
 
