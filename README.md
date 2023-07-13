@@ -8,7 +8,7 @@ I try to open-source any projects that I can, but a lot of my systems I keep pro
 
 ### 🗂 Main Open-Source Projects
 - **IPS2DevKit ([Roblox Plugin](https://github.com/Crystalflxme/IPS2DevKit))** <br>
-  IPS2DevKit is a Roblox Studio plugin utility for IPS2 content development.
+  Tools for In Plain Sight 2 content development.
 
 - **ChatPlus ([Roblox System](https://github.com/Crystalflxme/ChatPlus))** <br>
   ChatPlus is a system to allow easy management of the default Roblox chat system. As of December 31st 2021, Roblox Developer Forum users rated the system a 7.78/10 and about 71% said they would use ChatPlus in their own game.
