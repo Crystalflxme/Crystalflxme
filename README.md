@@ -1,13 +1,7 @@
-# 👋 Hi, I'm Paul.
-Roblox Developer — Programmer — Student
+## 👋 Hello!
 
-### 🔎 About Me
-I've been messing around on Roblox about 9 years. At the moment, I'm pushing new amazing projects on Roblox.
+I'm Paul, and I've been working on Roblox over 10 years. At the moment, I'm pushing new and amazing projects while attending university.
 
-I try to open-source any projects that I can, but a lot of my systems I keep proprietary for studios that I work in. For a list of my experience, see my Roblox Talent Hub profile in the socials below. Any open-source work that I have should be available here on GitHub.
+I try to open-source any projects that I can, but a lot of my work is proprietary for organizations that I work in. My most notable work, social links, and blog can be found on my website below. Any open-source projects that I have should be available here or under related organizations on GitHub.
 
-### 💬 Socials
-Roblox: https://www.roblox.com/users/64917350 <br>
-Roblox Talent Hub: https://talent.roblox.com/creators/64917350 <br>
-Roblox Developer Forum: https://devforum.roblox.com/u/crystalflxme <br>
-Twitter: https://twitter.com/crystalflxme
+### [Check out my website!](https://crystalfla.me/)
